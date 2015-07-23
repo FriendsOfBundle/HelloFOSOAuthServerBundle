@@ -1,5 +1,5 @@
 {
-    "name": "hgtan/oauth-server-bundle",
+    "name": "friendsofbundle/oauth-server-bundle",
     "type": "symfony-bundle",
     "description": "Hello Symfony2 FOSOAuthServer Bundle",
     "keywords": ["oauth", "oauth2", "server"],
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Hoang Thien An",
-            "homepage": "https://hoangthienan.com"
+            "homepage": "http://hoangthienan.com"
         },
         {
             "name": "FriendsOfBundle Community",
