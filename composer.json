@@ -12,7 +12,7 @@
         },
         {
             "name": "FriendsOfBundle Community",
-            "homepage": "https://github.com/friendsofbundle/HelloFOSRestBundle/contributors"
+            "homepage": "https://github.com/friendsofbundle/HelloFOSOAuthServerBundle/contributors"
         }
     ],
     "require": {
