@@ -1,0 +1,4 @@
+services:
+#    fob_hello_o_auth_server.example:
+#        class: FOB\HelloOAuthServerBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
